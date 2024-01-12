@@ -15,3 +15,6 @@ In the case of a KingTech Turbine the following are selected:
 Status -> TMP2 
 Voltage -> ADC3
 Fuel: -> FUEL
+
+
+![image](https://github.com/asficas/frskyEthosX20SLUA/assets/21962448/12e5013a-6611-4a6b-8a62-660db48f5037)
