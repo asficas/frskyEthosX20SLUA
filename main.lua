@@ -98,7 +98,7 @@ local function wakeup(widget)
         if widget.value ~= newValue then
             -- print("lcd.invalidate "..widget.value.." "..newValue)
             widget.value = newValue
-            widget.value = 5
+            -- widget.value = 5
             lcd.invalidate()
             end
     end
@@ -108,7 +108,7 @@ local function wakeup(widget)
         if widget.value1 ~= newValue1 then
             -- print("lcd.invalidate "..widget.value.." "..newValue)
             widget.value1 = newValue1
-            widget.value1 = 9.8
+            -- widget.value1 = 9.8
             lcd.invalidate()
             end
     end
@@ -118,7 +118,7 @@ local function wakeup(widget)
         if widget.value2 ~= newValue2 then
             -- print("lcd.invalidate "..widget.value.." "..newValue)
             widget.value2 = newValue2
-            widget.value2 = 1243
+            -- widget.value2 = 1243
             lcd.invalidate()
             end
     end
