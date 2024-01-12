@@ -12,8 +12,11 @@ Download the main.lua file and place it inside the GTBTLM folder.
 
 Add the widget to a screen. Click configure widget and select the sources from the available telemetry data.
 In the case of a KingTech Turbine the following are selected:
+
 Status -> TMP2 
+
 Voltage -> ADC3
+
 Fuel: -> FUEL
 
 
