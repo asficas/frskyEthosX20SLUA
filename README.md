@@ -19,6 +19,9 @@ Voltage -> ADC3
 
 Fuel: -> FUEL
 
-[Youtube Video:](https://youtube.com/shorts/OQtR-GfC2Xo?si=L9GOp7kJsScbpvRA )
+[Click here for Youtube Video.](https://youtube.com/shorts/OQtR-GfC2Xo?si=L9GOp7kJsScbpvRA )
+
+
+X20S Screenshot:
 
 ![VSpeakKingTechETHOSLUA](https://github.com/asficas/frskyEthosX20SLUA/assets/21962448/48552c74-2595-4358-b4b9-c3f1d3a1bdb1)
