@@ -19,5 +19,6 @@ Voltage -> ADC3
 
 Fuel: -> FUEL
 
+[Youtube Video:](https://youtube.com/shorts/OQtR-GfC2Xo?si=L9GOp7kJsScbpvRA )
 
-![image](https://github.com/asficas/frskyEthosX20SLUA/assets/21962448/12e5013a-6611-4a6b-8a62-660db48f5037)
+![VSpeakKingTechETHOSLUA](https://github.com/asficas/frskyEthosX20SLUA/assets/21962448/48552c74-2595-4358-b4b9-c3f1d3a1bdb1)
